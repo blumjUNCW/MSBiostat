@@ -16,6 +16,10 @@ This repository currently includes:
    - A brief guide for industry partners who may be willing to provide a letter of support.
    - The guidance highlights the kinds of points that are most useful in letters, especially workforce need, program relevance, and why UNCW is a meaningful partner for this effort.
 
+3. **Faculty-Industry Exchange**
+   - This is an idea that may be included in the planning proposal but is not in currently (it will be, at most, the one paragraph insert shown at the end of the document)
+   - I would like feedback on the feasibility and value of such a program, separate from any other support for the moment.
+
 ## Why I am sharing this
 
 At this stage, I am asking selected industry and professional partners to review the planning materials and consider whether they can provide support for the proposal.
